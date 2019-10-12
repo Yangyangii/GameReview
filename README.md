@@ -2,7 +2,7 @@
 
 
 ## Chess Rush (Tencent) ★★★☆☆
-- Genre: Auto Chess (Mobile)
+- Genre: Auto Battler (Mobile)
 - 매력 포인트
   - Turbo mode. 오토체스, 롤토체스에는 없는 모드. 어느 게임을 하나 커스텀 모드(a.k.a 유즈맵)를 좋아하는데, 이 모드로 게임하는게 무지 재밌음.
 - 한계
