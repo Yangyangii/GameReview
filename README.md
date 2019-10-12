@@ -1,6 +1,6 @@
 # (I'd like to play) Good Game
 
-
+# Mobile Games
 ## Chess Rush (Tencent) ★★★☆☆
 - Genre: Auto Battler (Mobile)
 - 매력 포인트
@@ -30,16 +30,5 @@
   - 장르의 특성이라고 해야하나? 
 
 
-## RunRace 3D
-
-
-
-## Rise of Kingdoms
-
-
-
-## 신삼국지 모바일
-
-
-## INSIDE
+# Console Games
 
