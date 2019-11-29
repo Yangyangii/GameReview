@@ -51,7 +51,7 @@
 
 # Console Games
 
-## 콜오브듀티: 모던워페어 (Infinity ward, ...)
+## 콜오브듀티: 모던워페어 (Infinity ward, ...) ★★★★☆
 - Genre: FPS (PC)
 - 플레이 중...
 - 매력 포인트
